@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Labo05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array_ufs">
+        <item >Acre</item>
+        <item >Amazonas</item>
+        <item >Ceara</item>
+        <item >Espirito Santos</item>
+        <item >Minas Gerais</item>
+        <item >Rio Grande do Sul</item>
+        <item >Rio de Janeiro</item>
+        <item >São Paulo</item>
+        <item >Santa Catarina</item>
+        <item>Paraná</item>
+    </string-array>
+    <string name="name">Nome Completo</string>
+    <string name="idade">Sua Idade</string>
+    <string name="email">E-mail</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="atualiza_auto">Atualizações Automáticas</string>
+    <string name="aceito">Aceito os termos da Aplicação</string>
+    
+
+</resources>
